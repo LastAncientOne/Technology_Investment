@@ -1,6 +1,16 @@
 # Technology Investment
 
-#### This project involves long-term investment analysis to determine which technology company is a good choice for long-term investment. The analysis includes examining historical data spanning 10 years, calculating performance measurements, conducting back-testing, forecasting, and utilizing the Capital Asset Pricing Model. Various trading strategies are tested, aiming to identify stocks with the lowest risks and highest returns.
+#### This project involves long-term investment analysis to determine which technology company is a good choice for long-term investment. The analysis includes examining historical data spanning 10 years, calculating performance measurements, conducting back-testing, forecasting, and utilizing the Capital Asset Pricing Model. Various 
+trading strategies are tested, aiming to identify stocks with the lowest risks and highest returns.
+
+
+#### Use income, balance, and cashflow statements and historical price in Excel, Python, and R for Stocks Analysis
+
+# Prerequistes  
+#### Python 3.7  
+#### Jupyter Notebook Python 3.7   
+#### Excel 2016  
+#### R  
 
 ### Stock Tickers:
 ADBE Adobe Inc.  
