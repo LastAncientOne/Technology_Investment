@@ -57,7 +57,7 @@ STX (0.1312)
 TSM (0.5998)  
 
 ### Monthly Returns  
-
+December and September seem to be the best times to buy more shares or start investing in tech stocks.  
 
 ## Author:  
 ### Tin Hang  
