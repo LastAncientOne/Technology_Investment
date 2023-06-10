@@ -35,7 +35,20 @@ STX Seagate Technology Holdings plc
 TSM Taiwan Semiconductor Manufacturing Company Limited  
 
 ### Sharpe Ratios  
-ADBE (0.5995), AMAT (0.6347), AMD (0.9207), AVGO (0.6232), BABA (0.0464), CSCO (0.03296), ETSY (0.7830), GOOGL (0.4547), INTC (-0.1046), LRCX (0.6292), LUMN (-0.4699), META (0.0612), MSFT (0.8349), MU (0.4172)  
+ADBE (0.5995)  
+AMAT (0.6347)  
+AMD (0.9207)  
+AVGO (0.6232)  
+BABA (0.0464)  
+CSCO (0.03296)  
+ETSY (0.7830)  
+GOOGL (0.4547)  
+INTC (-0.1046)  
+LRCX (0.6292)  
+LUMN (-0.4699)  
+META (0.0612)  
+MSFT (0.8349)  
+MU (0.4172)  
 NFLX (0.3370)  
 NVDA (1.0307)  
 PYPL (0.2773)  
