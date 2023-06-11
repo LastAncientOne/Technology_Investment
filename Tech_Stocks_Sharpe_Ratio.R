@@ -8,10 +8,6 @@ end_date <- as.Date('2023-01-01')
 # Fetch stock data
 getSymbols(symbols, from = start_date, to = end_date)
 
-# Fetch benchmark data (SPY)
-benchmark <- getSymbols("SPY", from = start_date, to = end_date)
-Rb <- dailyReturn(Cl(benchmark))
-
 # Calculate ratios for each stock
 ratios <- list()
 for (symbol in symbols) {
