@@ -34,7 +34,8 @@ QCOM QUALCOMM Incorporated
 STX Seagate Technology Holdings plc  
 TSM Taiwan Semiconductor Manufacturing Company Limited  
 
-### Sharpe Ratios  
+### Sharpe Ratios 
+#### Using PerformanceAnalytics to calculate Sharpe Ratios  
 ADBE (0.5995)  
 AMAT (0.6347)  
 AMD (0.9207)  
