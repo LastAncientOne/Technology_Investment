@@ -58,26 +58,26 @@ STX (0.1312)
 TSM (0.5998)  
 
 ### Information Ratio  
-AMD     0.064884185  
-NVDA    0.068458849  
-MSFT    0.059647883  
-GOOGL   0.035844059  
-QCOM    0.035545590  
-BABA    0.016188351  
-TSM     0.050755716  
-META    0.016299578  
-NFLX    0.034327497  
-ADBE    0.045139104  
-PYPL    0.028956244  
-AVGO    0.052428076  
-MU      0.038994102  
-AMAT    0.050709841  
-INTC    0.009309534  
-STX     0.029457974  
-LUMN   -0.006516516  
-ETSY    0.059062384  
-LRCX    0.050977054  
-CSCO    0.035562899  
+AMD     (0.064884185)  
+NVDA    (0.068458849) 
+MSFT    (0.059647883) 
+GOOGL   (0.035844059) 
+QCOM    (0.035545590)  
+BABA    (0.016188351)  
+TSM     (0.050755716)  
+META    (0.016299578)  
+NFLX    (0.034327497)  
+ADBE    (0.045139104)  
+PYPL    (0.028956244)  
+AVGO    (0.052428076)  
+MU      (0.038994102)  
+AMAT    (0.050709841)  
+INTC    (0.009309534)  
+STX     (0.029457974)  
+LUMN   (-0.006516516)  
+ETSY    (0.059062384)  
+LRCX    (0.050977054)  
+CSCO    (0.035562899)  
  
 ### Monthly Returns  
 February, June, December and September seem to be the best times to buy more shares or start investing in tech stocks.  
