@@ -19,17 +19,3 @@ plot_stock_chart <- function(symbol, start_date, end_date) {
   plot(stock_ts, type = 'l', main = paste('Stock Chart for', symbol),
        xlab = 'Date', ylab = 'Closing Price')
 }
-
-# Loop through each symbol and plot the line chart
-for (symbol in symbols) {
-  plot_stock_chart(symbol, start_date, end_date)
-}
-
-
-# Plot Chart quantmod theme
-getSymbols(symbols, from = start_date, to = end_date)
-
-par(mfrow = c(5, 4))
-for (symbol in symbols) {
-  chartSeries(get(symbol), theme = "white", type = "line", main = symbol)
-}
