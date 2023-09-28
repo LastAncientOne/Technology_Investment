@@ -3,7 +3,7 @@ library(quantmod)
 library(ggplot2)
 
 # Define the stock symbols and date range
-symbols <- c('BABA', 'JD', 'BIDU', 'TCEHY', 'NTES', 'VIPS', 'TCOM', 'BILI')
+symbols <- c('AMD', 'NVDA', 'MSFT', 'GOOGL', 'QCOM', 'BABA', 'TSM', 'META', 'NFLX', 'ADBE', 'PYPL', 'AVGO', 'MU', 'AMAT', 'INTC', 'STX', 'LUMN', 'ETSY', 'LRCX', 'CSCO')
 start_date <- as.Date('2020-01-01')
 end_date <- as.Date('2023-01-01')
 
