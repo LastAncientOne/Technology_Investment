@@ -86,4 +86,4 @@ February, June, December and September seem to be the best times to buy more sha
 ### Tin Hang  
 
 ## Disclaimer
-## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
+### 🔴 This isn't financial advice. Do your own research and don't use this code for investing or trading in stocks. If you're keen on the stock market, consider reading books on investment, trading, and finance. It's a good idea to talk to a professional investment advisor before making any investment choices. Keep in mind, this information is for educational purposes.  
